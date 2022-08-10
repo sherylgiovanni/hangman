@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 
 - This program was done for BYUH EIS' Coding Challenge
 - I started this project at 8:05am and finished at 9:50am, so it took me approximately 1 hour and 45 minutes.
